@@ -10,4 +10,4 @@ It's a Numerical Hydrodynamics code to solve the 1DEuler Equations using a Finit
 ## Code Manual
 To use the code one must first comile the main.cpp file and run the resulting binary. The parameters of the simulations can be set in the main function as constructer attributes of the simulation class. I chose this approach since the exercise required us to run the simulation a few times with different parameters. There are no dependencies on any library except the std lib. 
 
-The simulation results can be plotted via a Jupyter NB script and can be subsequently animated using ffmpeg in a ssh script. Therefore downloading ffmpeg is required to get working animations.
+The simulation results can be plotted via a Jupyter NB script and can be subsequently animated using ffmpeg in a sh script. Therefore downloading ffmpeg is required to get working animations.

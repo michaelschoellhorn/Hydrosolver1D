@@ -1,0 +1,11 @@
+mkdir Plots/
+cd Plots/
+mkdir q1
+mkdir q2
+mkdir q3
+mkdir q1gauss
+mkdir q2gauss
+mkdir q1visc
+mkdir q2visc
+mkdir q3visc
+cd ..

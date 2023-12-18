@@ -1,0 +1,4 @@
+.vscode/
+Plots/*
+*.txt
+main.exe
